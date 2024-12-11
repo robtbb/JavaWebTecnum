@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3d35c88-5ed1-42ae-9d1b-f4e2fe6cc3c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../serviços Web/projetos/02_mesagem-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serviços Web/projetos/03_mensages-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../serviços Web/projetos/04_cadastrodecurso-api.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projeto/sistema/SistemaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projeto/sistema/configuracaoBD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projeto/sistema/controller/EstadoControle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projeto/sistema/controller/PrincipalControle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projeto/sistema/modelos/Estado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/projeto/sistema/repositorios/EstadoRepositorio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/administrativo/estados/cadastro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/administrativo/estados/lista.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/administrativo/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/projeto/sistema/SistemaApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2muA3gbnrTXirkD6XbCrXdDYn5c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SistemaApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/rbb/Documents/gitrobt/JavaWeb/tecnum/03_sistema/src/main/resources/templates/administrativo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/administrativo" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/projeto/sistema" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/administrativo" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.projeto.sistema.controller" />
+      <recent name="com.projeto.sistema.repositorios" />
+      <recent name="com.projeto.sistema.modelos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SistemaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="sistema" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.projeto.sistema.SistemaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3d35c88-5ed1-42ae-9d1b-f4e2fe6cc3c4" name="Changes" comment="" />
+      <created>1727915897546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727915897546</updated>
+      <workItem from="1727915897836" duration="10820000" />
+      <workItem from="1727954542014" duration="1588000" />
+      <workItem from="1727973355889" duration="724000" />
+      <workItem from="1728009354331" duration="731000" />
+      <workItem from="1728058599690" duration="1968000" />
+      <workItem from="1728144086874" duration="13336000" />
+      <workItem from="1728218833742" duration="1973000" />
+      <workItem from="1728279644508" duration="248000" />
+      <workItem from="1728316862760" duration="775000" />
+      <workItem from="1728318306397" duration="34000" />
+      <workItem from="1728425645044" duration="219000" />
+      <workItem from="1728437423244" duration="5273000" />
+      <workItem from="1728501326957" duration="252000" />
+      <workItem from="1728578460644" duration="770000" />
+      <workItem from="1728579617792" duration="9877000" />
+      <workItem from="1728619539403" duration="892000" />
+      <workItem from="1728691286146" duration="2266000" />
+      <workItem from="1728693854114" duration="1875000" />
+      <workItem from="1728825322366" duration="15199000" />
+      <workItem from="1729090624131" duration="1184000" />
+      <workItem from="1729091908507" duration="309000" />
+      <workItem from="1729097963163" duration="1111000" />
+      <workItem from="1729134052681" duration="11120000" />
+      <workItem from="1729280847319" duration="8316000" />
+      <workItem from="1729343433271" duration="18493000" />
+      <workItem from="1729389334452" duration="676000" />
+      <workItem from="1729390092364" duration="5614000" />
+      <workItem from="1729433925792" duration="625000" />
+      <workItem from="1729435734914" duration="297000" />
+      <workItem from="1729436335633" duration="448000" />
+      <workItem from="1729437732746" duration="878000" />
+      <workItem from="1729441238503" duration="416000" />
+      <workItem from="1729441773717" duration="133000" />
+      <workItem from="1729446614861" duration="221000" />
+      <workItem from="1729447205424" duration="345000" />
+      <workItem from="1729448369163" duration="918000" />
+      <workItem from="1729449602081" duration="6498000" />
+      <workItem from="1729508834349" duration="4444000" />
+      <workItem from="1729517769762" duration="3197000" />
+      <workItem from="1729525598239" duration="77000" />
+      <workItem from="1729528861877" duration="669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
